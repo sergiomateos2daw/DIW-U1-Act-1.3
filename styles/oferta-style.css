@@ -37,3 +37,11 @@ body {
 .ofer {
   margin: 10%;
 }
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
