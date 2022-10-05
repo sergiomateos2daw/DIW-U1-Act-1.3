@@ -5,18 +5,20 @@
 }
  
 body {
-  width: 70%;
+  
   margin: 0 auto;
   justify-content: center;
 }
 
 #cabecera{
+  width: 800px;
   background-color: #eee;
   padding: 10px;
   margin: 10px;
 }
  
 #pie {
+  width: 800px;
   background-color: #eee;
   padding: 10px;
   margin: 10px;
@@ -24,6 +26,7 @@ body {
 }
  
 .columna1, .columna2, .columna3 {
+  width: 70%;
   background-color: #eee;
   width: 280px;
   float: left;
