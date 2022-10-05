@@ -1,40 +1,35 @@
 * {
   margin:0;
   padding:0;
-  box-sizing: border-box;
 }
  
 body {
-  
+  width: 60em;
   margin: 0 auto;
-  justify-content: center;
 }
-
+ 
 #cabecera{
-  width: 800px;
   background-color: #eee;
-  padding: 10px;
-  margin: 10px;
+  padding: 0.625em;
+  margin: 0.625em;
 }
  
 #pie {
-  width: 800px;
   background-color: #eee;
-  padding: 10px;
-  margin: 10px;
+  padding: 0.625em;
+  margin: 0.625em;
   clear:both;
 }
  
 .columna1, .columna2, .columna3 {
-  width: 70%;
   background-color: #eee;
-  width: 280px;
+  width: 17.5em;
   float: left;
-  margin: 10px;
-  padding: 10px;
+  margin: 0.625em;
+  padding: 0.625em;
 }
  
 li {
   display: inline;
-  padding: 5px;
+  padding: 0.313em;
 }
